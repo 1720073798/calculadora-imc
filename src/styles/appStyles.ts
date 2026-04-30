@@ -9,7 +9,8 @@ export const styles = StyleSheet.create({
     backgroundColor: "#fff",
     padding: 15,
     marginBottom: 20,
-    borderRadius: 10
+    borderRadius: 10,
+    elevation: 3
   },
   titulo: {
     fontSize: 18,
@@ -35,7 +36,6 @@ export const styles = StyleSheet.create({
   },
   resultado: {
     fontSize: 20,
-    fontWeight: "bold",
-    marginTop: 10
+    fontWeight: "bold"
   }
 });
